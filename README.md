@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 👋 Hey there, I'm Zakaria!<br><br><br>🚀 Passionate TypeScript and Next.js Developer 🌐 <br>🌟 Building projects for a better future 🛠️<br><br>🔧 Currently crafting code to create impactful solutions 💡<br>💡 Let's turn ideas into reality, one line of code at a time 🚀<br><br>👨‍💻 Always eager to learn and explore new technologies 📚<br>🌐 Connect with me and let's build a better future together! 🤝
 
 
